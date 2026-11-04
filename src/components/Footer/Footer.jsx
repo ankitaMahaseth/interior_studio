@@ -160,7 +160,7 @@ function Footer() {
               </a>
               , All Rights Reserved.
               <span className="block sm:inline sm:ml-1">
-                Designed By <span className="text-red-300">Ankita Mahaseth</span>
+                Designed By <span className="text-red-300">Aicolav </span>
               </span>
             </p>
         </div>
